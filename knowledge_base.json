@@ -1,0 +1,511 @@
+{
+    "Flu": {
+        "symptoms": [
+            "fever",
+            "cold",
+            "headache",
+            "body pain",
+            "cough",
+            "chills",
+            "fatigue"
+        ],
+        "description": "A contagious respiratory illness caused by influenza viruses.",
+        "treatment": [
+            "Get plenty of rest and drink fluids.",
+            "Use over-the-counter medicines for fever and body pain as advised on packaging.",
+            "If symptoms are severe or persist, consult a doctor."
+        ],
+        "warning": "Seek immediate care if fever exceeds 102°F or if you have difficulty breathing.",
+        "symptoms_hi": [
+            "बुखार",
+            "सर्दी",
+            "सिरदर्द",
+            "बदन दर्द",
+            "खांसी",
+            "ठंड लगना",
+            "थकान"
+        ],
+        "description_hi": "इन्फ्लूएंजा वायरस के कारण होने वाली एक संक्रामक श्वसन बीमारी।",
+        "treatment_hi": [
+            "खूब आराम करें और तरल पदार्थ पिएं।",
+            "बुखार और शरीर के दर्द के लिए काउंटर पर मिलने वाली दवाएं पैकेजिंग के अनुसार लें।",
+            "यदि लक्षण गंभीर हों या बने रहें, तो डॉक्टर से सलाह लें।"
+        ],
+        "warning_hi": "यदि बुखार 102°F से अधिक हो या सांस लेने में कठिनाई हो तो तुरंत डॉक्टर से मिलें।",
+        "symptoms_te": [
+            "జ్వరం",
+            "జలుబు",
+            "తలనొప్పి",
+            "శరీర నొప్పి",
+            "దగ్గు",
+            "చలి",
+            "అలసట"
+        ],
+        "description_te": "ఇన్ఫ్లుఎంజా వైరస్ల వలన కలిగే ఒక అంటు శ్వాసకోశ వ్యాధి.",
+        "treatment_te": [
+            "పుష్కలంగా విశ్రాంతి తీసుకోండి మరియు ద్రవాలు తాగండి.",
+            "జ్వరం మరియు శరీర నొప్పి కోసం ప్యాకేజింగ్ ప్రకారం ఓవర్-ది-కౌంటర్ మందులు వాడండి.",
+            "లక్షణాలు తీవ్రంగా ఉంటే లేదా కొనసాగితే, వైద్యుడిని సంప్రదించండి."
+        ],
+        "warning_te": "జ్వరం 102°F దాటితే లేదా శ్వాస తీసుకోవడంలో ఇబ్బంది ఉంటే వెంటనే వైద్య సంరక్షణ పొందండి।"
+    },
+    "COVID": {
+        "symptoms": [
+            "fever",
+            "cough",
+            "fatigue",
+            "loss of taste",
+            "loss of smell",
+            "sore throat",
+            "shortness of breath"
+        ],
+        "description": "An infectious disease caused by the SARS-CoV-2 virus, affecting the respiratory system.",
+        "treatment": [
+            "Isolate yourself.",
+            "Monitor symptoms and pulse oximetry.",
+            "Consult your doctor about symptomatic treatment and recovery plan."
+        ],
+        "warning": "Seek emergency medical attention if you have trouble breathing, persistent pain or pressure in the chest, or bluish lips/face.",
+        "symptoms_hi": [
+            "बुखार",
+            "खांसी",
+            "थकान",
+            "स्वाद का नुकसान",
+            "गंध का नुकसान",
+            "गले में खराश",
+            "सांस फूलना"
+        ],
+        "description_hi": "SARS-CoV-2 वायरस के कारण होने वाली एक संक्रामक बीमारी, जो श्वसन प्रणाली को प्रभावित करती है।",
+        "treatment_hi": [
+            "खुद को आइसोलेट करें।",
+            "लक्षणों और पल्स ऑक्सीमेट्री की निगरानी करें।",
+            "लक्षणों के उपचार और रिकवरी योजना के बारे में अपने डॉक्टर से सलाह लें।"
+        ],
+        "warning_hi": "यदि आपको सांस लेने में परेशानी हो, सीने में लगातार दर्द या दबाव हो, या होंठ/चेहरा नीला पड़ जाए तो आपातकालीन चिकित्सा सहायता लें।",
+        "symptoms_te": [
+            "జ్వరం",
+            "దగ్గు",
+            "అలసట",
+            "రుచి కోల్పోవడం",
+            "వాసన కోల్పోవడం",
+            "గొంతు నొప్పి",
+            "శ్వాస ఆడకపోవడం"
+        ],
+        "description_te": "SARS-CoV-2 వైరస్ వలన కలిగే అంటు వ్యాధి, ఇది శ్వాసకోశ వ్యవస్థను ప్రభావితం చేస్తుంది.",
+        "treatment_te": [
+            "మిమ్మల్ని మీరు ఒంటరిగా ఉంచుకోండి.",
+            "లక్షణాలు మరియు పల్స్ ఆక్సిమెట్రీని పర్యవేక్షించండి.",
+            "లక్షణాల చికిత్స మరియు కోలుకునే ప్రణాళిక గురించి మీ వైద్యుడిని సంప్రదించండి."
+        ],
+        "warning_te": "శ్వాస తీసుకోవడంలో ఇబ్బంది, ఛాతీలో నిరంతర నొప్పి లేదా ఒత్తిడి, లేదా పెదవులు/ముఖం నీలం రంగులోకి మారితే అత్యవసర వైద్య సంరక్షణ పొందండి।"
+    },
+    "Depression": {
+        "symptoms": [
+            "sadness",
+            "fatigue",
+            "sleep issues",
+            "loss of interest",
+            "depression",
+            "feeling hopeless",
+            "अवसाद",
+            "డిప్రెషన్"
+        ],
+        "description": "A common and serious medical illness that negatively affects how you feel, the way you think, and how you act.",
+        "treatment": [
+            "Seek professional mental health counseling or therapy.",
+            "Discuss medication options (antidepressants) with a psychiatrist.",
+            "Maintain a regular routine, exercise, and focus on self-care."
+        ],
+        "warning": "If you are having thoughts of self-harm, contact a crisis hotline immediately.",
+        "symptoms_hi": [
+            "उदासी",
+            "थकान",
+            "नींद की समस्या",
+            "रुचि का नुकसान",
+            "अवसाद",
+            "निराशा महसूस करना"
+        ],
+        "description_hi": "एक सामान्य और गंभीर चिकित्सा बीमारी जो आपके महसूस करने, सोचने और कार्य करने के तरीके को नकारात्मक रूप से प्रभावित करती है।",
+        "treatment_hi": [
+            "पेशेवर मानसिक स्वास्थ्य परामर्श या थेरेपी लें।",
+            "मनोचिकित्सक से दवाओं (एंटीडिप्रेसेंट) के विकल्पों पर चर्चा करें।",
+            "एक नियमित दिनचर्या बनाए रखें, व्यायाम करें और आत्म-देखभाल पर ध्यान दें।"
+        ],
+        "warning_hi": "यदि आपके मन में आत्म-हानि के विचार आ रहे हैं, तो तुरंत संकटकालीन हेल्पलाइन से संपर्क करें।",
+        "symptoms_te": [
+            "విచారం",
+            "అలసట",
+            "నిద్ర సమస్యలు",
+            "ఆసక్తి కోల్పోవడం",
+            "డిప్రెషన్",
+            "నిస్సహాయత భావన"
+        ],
+        "description_te": "మీరు అనుభూతి చెందే విధానం, మీరు ఆలోచించే విధానం మరియు మీరు ప్రవర్తించే విధానాన్ని ప్రతికూలంగా ప్రభావితం చేసే ఒక సాధారణ మరియు తీవ్రమైన వైద్య అనారోగ్యం.",
+        "treatment_te": [
+            "వృత్తిపరమైన మానసిక ఆరోగ్య కౌన్సెలింగ్ లేదా చికిత్స తీసుకోండి.",
+            "మనోవైద్యుడితో మందుల ఎంపికల (యాంటిడిప్రెసెంట్స్) గురించి చర్చించండి.",
+            "క్రమబద్ధమైన దినచర్యను నిర్వహించండి, వ్యాయామం చేయండి మరియు స్వీయ-సంరక్షణపై దృష్టి పెట్టండి."
+        ],
+        "warning_te": "మీకు ఆత్మహత్య ఆలోచనలు వస్తుంటే, వెంటనే క్రైసిస్ హాట్‌లైన్‌ను సంప్రదించండి।"
+    },
+    "Migraine": {
+        "symptoms": [
+            "headache",
+            "nausea",
+            "sensitivity to light",
+            "migraine",
+            "सिरदर्द",
+            "तलनొప్పి"
+        ],
+        "description": "A neurological condition characterized by recurrent, severe, and debilitating headaches.",
+        "treatment": [
+            "Rest in a dark, quiet room.",
+            "Apply a cold compress.",
+            "Use over-the-counter pain relievers (NSAIDs) or specific prescription medications as advised by a doctor."
+        ],
+        "warning": "Seek medical attention if the headache is sudden and severe, or accompanied by confusion or stiff neck.",
+        "symptoms_hi": [
+            "सिरदर्द",
+            "मतली",
+            "रोशनी के प्रति संवेदनशीलता",
+            "माइग्रेन"
+        ],
+        "description_hi": "एक तंत्रिका संबंधी स्थिति जिसमें बार-बार, गंभीर और दुर्बल करने वाले सिरदर्द होते हैं।",
+        "treatment_hi": [
+            "एक अंधेरे, शांत कमरे में आराम करें।",
+            "ठंडा सेक लगाएं।",
+            "डॉक्टर की सलाह के अनुसार ओवर-द-काउंटर दर्द निवारक (एनएसएआईडी) या विशिष्ट नुस्खे वाली दवाएं लें।"
+        ],
+        "warning_hi": "यदि सिरदर्द अचानक और गंभीर हो, या भ्रम या गर्दन में अकड़न के साथ हो तो डॉक्टर से मिलें।",
+        "symptoms_te": [
+            "తలనొప్పి",
+            "వికారం",
+            "కాంతికి సున్నితత్వం",
+            "మైగ్రేన్"
+        ],
+        "description_te": "పునరావృతమయ్యే, తీవ్రమైన మరియు బలహీనపరిచే తలనొప్పి లక్షణాలతో కూడిన ఒక నాడీ సంబంధిత పరిస్థితి.",
+        "treatment_te": [
+            "చీకటి, నిశ్శబ్ద గదిలో విశ్రాంతి తీసుకోండి.",
+            "చల్లటి కాపడం పెట్టండి.",
+            "వైద్యుడి సలహా మేరకు ఓవర్-ది-కౌంటర్ నొప్పి నివారణ మందులు (NSAIDs) లేదా నిర్దిష్ట ప్రిస్క్రిప్షన్ మందులు వాడండి."
+        ],
+        "warning_te": "తలనొప్పి అకస్మాత్తుగా మరియు తీవ్రంగా ఉంటే, లేదా గందరగోళం లేదా మెడ పట్టేయడం వంటి లక్షణాలు ఉంటే వైద్య సహాయం తీసుకోండి।"
+    },
+    "Diabetes": {
+        "symptoms": [
+            "frequent urination",
+            "fatigue",
+            "thirst",
+            "blurred vision",
+            "diabetes",
+            "मधुमेह",
+            "డయాబెటీస్"
+        ],
+        "description": "A chronic disease that affects how your body turns food into energy, resulting in high blood sugar levels.",
+        "treatment": [
+            "Follow a consistent diet plan.",
+            "Regular exercise.",
+            "Take prescribed insulin or oral medications as directed by your doctor.",
+            "Monitor blood sugar levels closely."
+        ],
+        "warning": "Seek immediate care for symptoms of hypoglycemia (low blood sugar) such as confusion, tremors, or loss of consciousness.",
+        "symptoms_hi": [
+            "बार-बार पेशाब",
+            "थकान",
+            "प्यास",
+            "धुंधला दिखना",
+            "मधुमेह"
+        ],
+        "description_hi": "एक पुरानी बीमारी जो आपके शरीर को भोजन को ऊर्जा में बदलने के तरीके को प्रभावित करती है, जिसके परिणामस्वरूप रक्त शर्करा का स्तर अधिक होता है।",
+        "treatment_hi": [
+            "एक सुसंगत आहार योजना का पालन करें।",
+            "नियमित रूप से व्यायाम करें।",
+            "अपने डॉक्टर के निर्देशानुसार निर्धारित इंसुलिन या मौखिक दवाएं लें।",
+            "रक्त शर्करा के स्तर की बारीकी से निगरानी करें।"
+        ],
+        "warning_hi": "हाइपोग्लाइसीमिया (निम्न रक्त शर्करा) के लक्षणों जैसे भ्रम, कंपकंपी या चेतना की हानि के लिए तुरंत देखभाल लें।",
+        "symptoms_te": [
+            "తరచుగా మూత్రవిసర్జన",
+            "అలసట",
+            "దాహం",
+            "మసక దృష్టి",
+            "డయాబెటీస్"
+        ],
+        "description_te": "మీ శరీరం ఆహారాన్ని శక్తిగా మార్చే విధానాన్ని ప్రభావితం చేసే దీర్ఘకాలిక వ్యాధి, దీని ఫలితంగా రక్తంలో చక్కెర స్థాయిలు ఎక్కువగా ఉంటాయి.",
+        "treatment_te": [
+            "స్థిరమైన ఆహార ప్రణాళికను అనుసరించండి.",
+            "క్రమం తప్పకుండా వ్యాయామం చేయండి.",
+            "మీ డాక్టర్ సూచించినట్లుగా ఇన్సులిన్ లేదా నోటి మందులు తీసుకోండి.",
+            "రక్తంలో చక్కెర స్థాయిలను నిశితంగా పర్యవేక్షించండి."
+        ],
+        "warning_te": "హైపోగ్లైసీమియా (తక్కువ రక్త చక్కెర) లక్షణాల కోసం తక్షణ సంరక్షణ పొందండి, అవి గందరగోళం, వణుకు లేదా స్పృహ కోల్పోవడం."
+    },
+    "Hypertension": {
+        "symptoms": [
+            "headache",
+            "fatigue",
+            "dizziness",
+            "high blood pressure"
+        ],
+        "description": "A common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems, such as heart disease.",
+        "treatment": [
+            "Follow a low-sodium, heart-healthy diet.",
+            "Regular physical activity.",
+            "Take prescribed medications (e.g., ACE inhibitors, diuretics) as directed.",
+            "Monitor blood pressure regularly."
+        ],
+        "warning": "Seek immediate medical attention for a hypertensive crisis (BP reading over 180/120) with new symptoms like chest pain or vision changes.",
+        "symptoms_hi": [
+            "सिरदर्द",
+            "थकान",
+            "चक्कर आना",
+            "उच्च रक्तचाप"
+        ],
+        "description_hi": "एक सामान्य स्थिति जिसमें आपकी धमनी की दीवारों के विरुद्ध रक्त का दीर्घकालिक बल इतना अधिक होता है कि यह अंततः हृदय रोग जैसी स्वास्थ्य समस्याएं पैदा कर सकता है।",
+        "treatment_hi": [
+            "कम सोडियम वाला, हृदय-स्वस्थ आहार लें।",
+            "नियमित शारीरिक गतिविधि करें।",
+            "निर्धारित दवाएं (जैसे, एसीई अवरोधक, मूत्रवर्धक) निर्देशानुसार लें।",
+            "नियमित रूप से रक्तचाप की निगरानी करें।"
+        ],
+        "warning_hi": "सीने में दर्द या दृष्टि में बदलाव जैसे नए लक्षणों के साथ उच्च रक्तचाप संकट (बीपी 180/120 से अधिक) के लिए तुरंत चिकित्सा सहायता लें।",
+        "symptoms_te": [
+            "తలనొప్పి",
+            "అలసట",
+            "మైకం",
+            "అధిక రక్తపోటు"
+        ],
+        "description_te": "మీ ధమనుల గోడలపై రక్తం యొక్క దీర్ఘకాలిక శక్తి చాలా ఎక్కువగా ఉండే సాధారణ పరిస్థితి, ఇది చివరికి గుండె జబ్బులు వంటి ఆరోగ్య సమస్యలను కలిగిస్తుంది.",
+        "treatment_te": [
+            "తక్కువ సోడియం, గుండె-ఆరోగ్యకరమైన ఆహారం తీసుకోండి.",
+            "క్రమం తప్పకుండా శారీరక శ్రమ చేయండి.",
+            "సూచించిన మందులు (ఉదా. ACE ఇన్హిబిటర్లు, మూత్రవిసర్జన మందులు) సూచనల ప్రకారం తీసుకోండి.",
+            "రక్తపోటును క్రమం తప్పకుండా పర్యవేక్షించండి."
+        ],
+        "warning_te": "ఛాతీ నొప్పి లేదా దృష్టి మార్పులు వంటి కొత్త లక్షణాలతో అధిక రక్తపోటు సంక్షోభం (BP 180/120 దాటితే) వస్తే తక్షణ వైద్య సహాయం తీసుకోండి।"
+    },
+    "Asthma": {
+        "symptoms": [
+            "shortness of breath",
+            "cough",
+            "wheezing",
+            "chest tightness"
+        ],
+        "description": "A condition in which your airways narrow and swell and may produce extra mucus, making breathing difficult.",
+        "treatment": [
+            "Use prescribed inhalers (rescue and long-term control).",
+            "Identify and avoid triggers (e.g., dust, pollen).",
+            "Consult a doctor for a personalized Asthma Action Plan."
+        ],
+        "warning": "Seek immediate emergency care if you have severe shortness of breath or if your rescue inhaler is ineffective.",
+        "symptoms_hi": [
+            "सांस फूलना",
+            "खांसी",
+            "घरघराहट",
+            "सीने में जकड़न"
+        ],
+        "description_hi": "एक ऐसी स्थिति जिसमें आपके वायुमार्ग संकीर्ण हो जाते हैं और सूज जाते हैं तथा अतिरिक्त बलगम का उत्पादन कर सकते हैं, जिससे सांस लेना मुश्किल हो जाता है।",
+        "treatment_hi": [
+            "निर्धारित इनहेलर (रेस्क्यू और दीर्घकालिक नियंत्रण) का उपयोग करें।",
+            "ट्रिगर (जैसे धूल, पराग) की पहचान करें और उनसे बचें।",
+            "व्यक्तिगत अस्थमा एक्शन प्लान के लिए डॉक्टर से सलाह लें।"
+        ],
+        "warning_hi": "यदि आपको सांस लेने में गंभीर परेशानी हो या आपका रेस्क्यू इनहेलर अप्रभावी हो तो तुरंत आपातकालीन देखभाल लें।",
+        "symptoms_te": [
+            "శ్వాస ఆడకపోవడం",
+            "దగ్గు",
+            "గురక",
+            "ఛాతీ బిగుతు"
+        ],
+        "description_te": "మీ శ్వాస మార్గాలు ఇరుకై ఉబ్బి, అదనపు శ్లేష్మాన్ని ఉత్పత్తి చేయగల పరిస్థితి, దీని వలన శ్వాస తీసుకోవడం కష్టమవుతుంది.",
+        "treatment_te": [
+            "సూచించిన ఇన్హేలర్‌లను (రెస్క్యూ మరియు దీర్ఘకాలిక నియంత్రణ) ఉపయోగించండి.",
+            "ట్రిగ్గర్‌లను (ఉదా. ధూళి, పుప్పొడి) గుర్తించి, వాటిని నివారించండి.",
+            "వ్యక్తిగత ఆస్తమా యాక్షన్ ప్లాన్ కోసం వైద్యుడిని సంప్రదించండి."
+        ],
+        "warning_te": "మీకు తీవ్రమైన శ్వాస ఆడకపోవడం ఉంటే లేదా మీ రెస్క్యూ ఇన్హేలర్ పనిచేయకపోతే వెంటనే అత్యవసర సంరక్షణ పొందండి।"
+    },
+    "Allergy": {
+        "symptoms": [
+            "sneezing",
+            "runny nose",
+            "itchy eyes",
+            "allergy"
+        ],
+        "description": "An immune system reaction to a substance that is usually harmless, such as pollen or certain foods.",
+        "treatment": [
+            "Identify and avoid known allergens.",
+            "Use over-the-counter antihistamines or nasal sprays.",
+            "Consult an allergist for testing and possible immunotherapy."
+        ],
+        "warning": "Seek immediate emergency care for signs of anaphylaxis, such as throat swelling or difficulty breathing.",
+        "symptoms_hi": [
+            "छींक आना",
+            "बहती नाक",
+            "आंखों में खुजली",
+            "एलर्जी"
+        ],
+        "description_hi": "किसी ऐसे पदार्थ के प्रति प्रतिरक्षा प्रणाली की प्रतिक्रिया जो आमतौर पर हानिरहित होता है, जैसे पराग या कुछ खाद्य पदार्थ।",
+        "treatment_hi": [
+            "ज्ञात एलर्जी कारकों की पहचान करें और उनसे बचें।",
+            "ओवर-द-काउंटर एंटीहिस्टामाइन या नाक स्प्रे का उपयोग करें।",
+            "परीक्षण और संभावित इम्यूनोथेरेपी के लिए एलर्जी विशेषज्ञ से सलाह लें।"
+        ],
+        "warning_hi": "एनाफिलेक्सिस के लक्षणों, जैसे गले में सूजन या सांस लेने में कठिनाई होने पर तुरंत आपातकालीन देखभाल लें।",
+        "symptoms_te": [
+            "తుమ్ములు",
+            "ముక్కు కారడం",
+            "కళ్లలో దురద",
+            "అలెర్జీ"
+        ],
+        "description_te": "సాధారణంగా హానిచేయని పదార్థానికి (ఉదా. పుప్పొడి లేదా కొన్ని ఆహారాలు) రోగనిరోధక వ్యవస్థ ప్రతిస్పందన.",
+        "treatment_te": [
+            "తెలిసిన అలెర్జీ కారకాలను గుర్తించి, వాటిని నివారించండి.",
+            "ఓవర్-ది-కౌంటర్ యాంటిహిస్టామైన్స్ లేదా నాసల్ స్ప్రేలను ఉపయోగించండి.",
+            "పరీక్ష మరియు సాధ్యమైన ఇమ్యునోథెరపీ కోసం అలెర్జీ నిపుణుడిని సంప్రదించండి."
+        ],
+        "warning_te": "గొంతు వాపు లేదా శ్వాస తీసుకోవడంలో ఇబ్బంది వంటి అనాఫిలాక్సిస్ లక్షణాలు కనిపిస్తే వెంటనే అత్యవసర సంరక్షణ పొందండి।"
+    },
+    "Sinus infection": {
+        "symptoms": [
+            "headache",
+            "cold",
+            "facial pain",
+            "sinus pressure"
+        ],
+        "description": "Inflammation of the tissues lining the sinuses, often caused by a common cold or allergies.",
+        "treatment": [
+            "Use saline nasal sprays or rinses.",
+            "Apply warm compresses to the face.",
+            "Use decongestants or pain relievers as directed."
+        ],
+        "warning": "Consult a doctor if symptoms last longer than 10 days, or if you have high fever, severe headache, or vision changes.",
+        "symptoms_hi": [
+            "सिरदर्द",
+            "सर्दी",
+            "चेहरे का दर्द",
+            "साइनस दबाव"
+        ],
+        "description_hi": "साइनस को अस्तर करने वाले ऊतकों की सूजन, जो अक्सर सामान्य सर्दी या एलर्जी के कारण होती है।",
+        "treatment_hi": [
+            "सलाइन नाक स्प्रे या कुल्ला का उपयोग करें।",
+            "चेहरे पर गर्म सेक लगाएं।",
+            "निर्देशानुसार डिकंजेस्टैंट या दर्द निवारक का उपयोग करें।"
+        ],
+        "warning_hi": "यदि लक्षण 10 दिनों से अधिक रहते हैं, या यदि आपको तेज बुखार, गंभीर सिरदर्द या दृष्टि में बदलाव होता है तो डॉक्टर से सलाह लें।",
+        "symptoms_te": [
+            "తలనొప్పి",
+            "జలుబు",
+            "ముఖ నొప్పి",
+            "సైనస్ ఒత్తిడి"
+        ],
+        "description_te": "సైనస్‌లను కప్పి ఉంచే కణజాలాల వాపు, ఇది తరచుగా సాధారణ జలుబు లేదా అలెర్జీల వలన సంభవిస్తుంది.",
+        "treatment_te": [
+            "సెలైన్ నాసల్ స్ప్రేలు లేదా శుభ్రం చేయడానికి వాడండి.",
+            "ముఖానికి వెచ్చని కాపడాలు పెట్టండి.",
+            "సూచనల ప్రకారం డీకంజెస్టెంట్స్ లేదా నొప్పి నివారణ మందులను వాడండి."
+        ],
+        "warning_te": "లక్షణాలు 10 రోజులకు మించి ఉంటే, లేదా మీకు అధిక జ్వరం, తీవ్రమైన తలనొప్పి లేదా దృష్టి మార్పులు ఉంటే వైద్యుడిని సంప్రదించండి।"
+    },
+    "Heart disease": {
+        "symptoms": [
+            "chest pain",
+            "fatigue",
+            "shortness of breath",
+            "dizziness"
+        ],
+        "description": "A range of conditions that affect your heart, including blood vessel diseases, heart rhythm problems, and heart defects.",
+        "treatment": [
+            "Adopt a heart-healthy diet and exercise routine.",
+            "Manage stress and maintain a healthy weight.",
+            "Take prescribed medications (e.g., statins, blood thinners) as directed."
+        ],
+        "warning": "Call emergency services immediately if you experience crushing chest pain, pain radiating to the arm, or sudden, severe shortness of breath.",
+        "symptoms_hi": [
+            "सीने में दर्द",
+            "थकान",
+            "सांस फूलना",
+            "चक्कर आना"
+        ],
+        "description_hi": "स्थितियों की एक श्रृंखला जो आपके हृदय को प्रभावित करती है, जिसमें रक्त वाहिका रोग, हृदय ताल की समस्याएं और हृदय दोष शामिल हैं।",
+        "treatment_hi": [
+            "हृदय-स्वस्थ आहार और व्यायाम दिनचर्या अपनाएं।",
+            "तनाव का प्रबंधन करें और स्वस्थ वजन बनाए रखें।",
+            "निर्धारित दवाएं (जैसे स्टैटिन, रक्त पतला करने वाली दवाएं) निर्देशानुसार लें।"
+        ],
+        "warning_hi": "यदि आपको सीने में तेज दर्द, हाथ तक फैलने वाला दर्द, या अचानक, गंभीर सांस फूलना अनुभव हो तो तुरंत आपातकालीन सेवाओं को कॉल करें।",
+        "symptoms_te": [
+            "ఛాతీ నొప్పి",
+            "అలసట",
+            "శ్వాస ఆడకపోవడం",
+            "మైకం"
+        ],
+        "description_te": "రక్తనాళాల వ్యాధులు, గుండె లయ సమస్యలు మరియు గుండె లోపాలతో సహా మీ గుండెను ప్రభావితం చేసే పరిస్థితుల శ్రేణి.",
+        "treatment_te": [
+            "గుండె-ఆరోగ్యకరమైన ఆహారం మరియు వ్యాయామ దినచర్యను అనుసరించండి.",
+            "ఒత్తిడిని నిర్వహించండి మరియు ఆరోగ్యకరమైన బరువును నిర్వహించండి.",
+            "సూచించిన మందులు (ఉదా. స్టాటిన్స్, బ్లడ్ థిన్నర్స్) సూచనల ప్రకారం తీసుకోండి."
+        ],
+        "warning_te": "ఛాతీలో తీవ్రమైన నొప్పి, చేతికి వ్యాపించే నొప్పి, లేదా అకస్మాత్తుగా, తీవ్రమైన శ్వాస ఆడకపోవడం అనుభవమైతే వెంటనే అత్యవసర సేవలకు కాల్ చేయండి।"
+    },
+    "dengue,cold": {
+        "description": "dengue",
+        "symptoms": [
+            "dengue",
+            "cold"
+        ],
+        "treatment": [
+            "Most dengue infections don’t cause symptoms. If you do have symptoms",
+            "high fever (104°F/40°C) is typical",
+            "along with: 1. Rash. 2. Intense pain behind your eyes. 3. Nausea or vomiting. 4. Muscle",
+            "bone and joint pain. Dengue fever symptoms start to appear four to 10 … See more"
+        ],
+        "warning": "Always consult a doctor.",
+        "description_hi": "",
+        "symptoms_hi": [],
+        "treatment_hi": [],
+        "warning_hi": "",
+        "description_te": "",
+        "symptoms_te": [],
+        "treatment_te": [],
+        "warning_te": ""
+    },
+    "fire": {
+        "description": "due to fire",
+        "symptoms": [
+            "fire",
+            "rash"
+        ],
+        "treatment": [
+            "clean it"
+        ],
+        "warning": "Always consult a doctor.",
+        "description_hi": "",
+        "symptoms_hi": [],
+        "treatment_hi": [],
+        "warning_hi": "",
+        "description_te": "",
+        "symptoms_te": [],
+        "treatment_te": [],
+        "warning_te": ""
+    },
+    "junk": {
+        "description": "hehe",
+        "symptoms": [
+            "run",
+            "fun"
+        ],
+        "treatment": [
+            "em undhi le ponuko"
+        ],
+        "warning": "Always consult a doctor.",
+        "description_hi": "",
+        "symptoms_hi": [],
+        "treatment_hi": [],
+        "warning_hi": "",
+        "description_te": "",
+        "symptoms_te": [],
+        "treatment_te": [],
+        "warning_te": ""
+    }
+}
